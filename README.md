@@ -11,5 +11,9 @@ system, prove it with evaluation, and ship it.
 **Stack:** Python, TypeScript, ComfyUI, Blender, ffmpeg, Playwright and browser agents,
 local GPU inference, VLM and LLM judges.
 
+**Projects**
+- [ai-documentary-pipeline](https://github.com/mhuangfx/ai-documentary-pipeline): one overnight
+  run on one GPU turns a science story into an 18-minute documentary rough cut, with an AI host.
+
 **Reel and case studies:** [mhfx.ai](https://mhfx.ai) ·
 [LinkedIn](https://www.linkedin.com/in/mhuangfx) · mhuangfx@gmail.com
