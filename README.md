@@ -16,6 +16,8 @@ local GPU inference, VLM and LLM judges.
   run on one GPU turns a science story into an 18-minute documentary rough cut, with an AI host.
 - [action-sequence-pipeline](https://github.com/mhuangfx/action-sequence-pipeline): a short job
   spec becomes a 30-second action sequence with storyboards, bridged clips, and local QA gates.
+- [one-camera-many-looks](https://github.com/mhuangfx/one-camera-many-looks): one Blender camera
+  move re-rendered by a video model in nine looks, with the camera locked.
 
 **Reel and case studies:** [mhfx.ai](https://mhfx.ai) ·
 [LinkedIn](https://www.linkedin.com/in/mhuangfx) · mhuangfx@gmail.com
