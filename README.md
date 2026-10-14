@@ -14,6 +14,8 @@ local GPU inference, VLM and LLM judges.
 **Projects**
 - [ai-documentary-pipeline](https://github.com/mhuangfx/ai-documentary-pipeline): one overnight
   run on one GPU turns a science story into an 18-minute documentary rough cut, with an AI host.
+- [action-sequence-pipeline](https://github.com/mhuangfx/action-sequence-pipeline): a short job
+  spec becomes a 30-second action sequence with storyboards, bridged clips, and local QA gates.
 
 **Reel and case studies:** [mhfx.ai](https://mhfx.ai) ·
 [LinkedIn](https://www.linkedin.com/in/mhuangfx) · mhuangfx@gmail.com
