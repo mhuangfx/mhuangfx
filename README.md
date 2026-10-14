@@ -18,6 +18,8 @@ local GPU inference, VLM and LLM judges.
   spec becomes a 30-second action sequence with storyboards, bridged clips, and local QA gates.
 - [one-camera-many-looks](https://github.com/mhuangfx/one-camera-many-looks): one Blender camera
   move re-rendered by a video model in nine looks, with the camera locked.
+- [emojisubs](https://github.com/mhuangfx/emojisubs): a desktop app that transcribes video locally
+  and burns in styled subtitles with a reaction image per line.
 
 **Reel and case studies:** [mhfx.ai](https://mhfx.ai) ·
 [LinkedIn](https://www.linkedin.com/in/mhuangfx) · mhuangfx@gmail.com
