@@ -3,13 +3,14 @@
 I build generative video pipelines and the tools around them. I take a creative need, build the
 system, prove it with evaluation, and ship it.
 
-- **Now:** Creative Technologist, Netflix Ads (contract, 2026). Generative AI tools for ad creative.
+- **Now:** Creative Technologist, Generative AI (contract, 2026) at Netflix Data Science and Engineering
+  (Ads Creative). Production image and video generation tools.
 - **Before:** a decade of high-end FX for film, series, and game cinematics (Houdini: pyro, smoke,
   destruction, fluids). Part of Blur Studio's Annie Award–winning FX team on *Love, Death + Robots*.
 - **MFA**, Computer Art, School of Visual Arts.
 
-**Stack:** Python, TypeScript, ComfyUI, Blender, ffmpeg, Playwright and browser agents,
-local GPU inference, VLM and LLM judges.
+**Stack:** Python, TypeScript, ComfyUI workflows, video generation (Seedance, Wan, Veo, Runway, Kling),
+Blender, ffmpeg, Playwright and browser agents, local GPU inference, VLM and LLM judges for evaluation.
 
 **Projects**
 - [ai-documentary-pipeline](https://github.com/mhuangfx/ai-documentary-pipeline): one overnight
